@@ -140,9 +140,6 @@ $ streamlit run app.py
 </p>
 <p align="center">Results</p>
 
-## :clap: And it's done!
-Feel free to mail me for any doubts/query 
-:email: chandrikadeb7@gmail.com
 
 ---
 
@@ -205,7 +202,7 @@ Awarded Runners Up position in [Amdocs Innovation India ICE Project Fair]( https
 ## :handshake: Contribution
 
 #### Please read the Contribution Guidelines [here](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/CONTRIBUTING.md)
-Feel free to **file a new issue** with a respective title and description on the the [Face-Mask-Detection](https://github.com/chandrikadeb7/Face-Mask-Detection/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
+Feel free to **file a new issue** with a respective title and description on the the [Face-Mask-Detection] If you already found a solution to your problem, **I would love to review your pull request**! 
 
 ## :handshake: Our Contributors
 
